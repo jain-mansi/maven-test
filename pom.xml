@@ -78,4 +78,13 @@
       </plugin>
     </plugins>
   </reporting>
+  <distributionManagement>
+    <snapshotRepository>
+      <uniqueVersion>true</uniqueVersion>
+      <id>maven-snapshots</id>
+      <name>maven-snapshots</name>
+      <url>http://3.109.0.220:8081/repository/maven-snapshots/</url>
+      <layout>legacy</layout>
+    </snapshotRepository>
+  </distributionManagement>
 </project>
