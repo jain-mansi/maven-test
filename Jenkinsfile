@@ -18,5 +18,13 @@ node{
     '''
    }
      }
+  stage("nexus-upload"){
+    sh'''
+    mvn clean deploy
+     
+    '''
 }
+
+}
+
 
