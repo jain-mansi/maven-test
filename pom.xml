@@ -95,9 +95,9 @@
       <url>http://3.109.0.220:8081/repository/maven-snapshots/</url>
     </repository>
     <repository>
-      <id>maven-releases</id>
-      <name>maven-releases</name>
-      <url>http://3.109.0.220:8081/repository/maven-releases/</url>
+      <id>maven-central</id>
+      <name>maven-central</name>
+       <url>https://repo.maven.apache.org/maven2/</url>
     </repository>
   </repositories>
 </project>
