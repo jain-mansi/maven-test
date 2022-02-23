@@ -5,6 +5,7 @@ node{
   }
   stage("build"){
     sh'''
+    mvn -v
     mvn clean package
      
     '''
