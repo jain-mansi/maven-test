@@ -83,7 +83,7 @@
       <uniqueVersion>true</uniqueVersion>
       <id>maven-snapshots</id>
       <name>maven-snapshots</name>
-      <url>http://3.110.146.241:8081/repository/maven-snapshots/</url>
+      <url>http://65.1.145.182:8081/repository/maven-snapshots/</url>
       <layout>legacy</layout>
     </snapshotRepository>
   </distributionManagement>
@@ -92,7 +92,7 @@
     <repository>
       <id>maven-snapshots</id>
       <name>maven-snapshots</name>
-      <url>http://3.110.146.241:8081/repository/maven-snapshots/</url>
+      <url>http://65.1.145.182:8081/repository/maven-snapshots/</url>
     </repository>
     <repository>
       <id>maven-central</id>
